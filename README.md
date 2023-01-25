@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I forgot many things mentioned in this pre-work, but this is a great chance for me to go over everything to prepare for Web Development Intermediate course.
 
 ## License
 
